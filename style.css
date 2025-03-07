@@ -29,7 +29,7 @@ ul, ol {
 
 .header {
     padding-top: 50px;
-    background: url(https://images.unsplash.com/photo-1510627489930-0c1b0bfb6785?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background: url(https://learn.logikaschool.com/uploads/student/2422843/67caf3f5987f2.jpg);
     height: 100vh;
     background-position: 0 0;
     background-repeat: no-repeat;
@@ -169,6 +169,7 @@ ul, ol {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 200px 0 0 0;
 }
 
 .hero__txt {
@@ -446,21 +447,21 @@ article {
 }
 
 .grid__item__1 {
-    background: url(https://images.unsplash.com/photo-1719937050601-969f4f25d060?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw2fHx8ZW58MHx8fHx8);
+    background: url(https://kartinki.pics/pics/uploads/posts/2022-08/thumbs/1660028902_4-kartinkin-net-p-zastavka-kvartira-krasivo-4.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .grid__item__2 {
-    background: url(https://images.unsplash.com/photo-1724250973924-0209b9a64c13?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4fHx8ZW58MHx8fHx8);
+    background: url(https://kartinki.pics/pics/uploads/posts/2022-08/1660028870_1-kartinkin-net-p-zastavka-kvartira-krasivo-1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .grid__item__3 {
-    background: url(https://images.unsplash.com/photo-1724094505377-ac01c7813010?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D);
+    background: url(https://kartinki.pics/pics/uploads/posts/2022-08/1660028842_14-kartinkin-net-p-zastavka-kvartira-krasivo-15.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
